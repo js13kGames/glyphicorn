@@ -8,4 +8,5 @@ An abstract platformer puzzle game to discover and understand the rainbow physic
 
 Use the on screen controls or keyboard (WASD / arrows) to move the unicorn. Hold the view button to pause the timer and view the entire puzzle. 
 
+[Implementation of WaveDash has been completed here.](https://wavedash.com/games/glyphicorn)
  
